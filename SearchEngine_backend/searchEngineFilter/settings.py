@@ -80,9 +80,9 @@ CORS_ALLOW_ALL_ORIGINS = True
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'MY_CUSTOM_BOT',
+        'NAME': 'The_name',
         'USER': 'root',
-        'PASSWORD': 'Bb2281331!',
+        'PASSWORD': 'Password',
         'HOST': 'localhost',
         'PORT': '3306',
         'OPTIONS': {
