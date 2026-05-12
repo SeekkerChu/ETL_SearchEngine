@@ -1,3 +1,6 @@
+python manager.py runserver
+
+
 Back-end view:
 <img width="1463" height="627" alt="image" src="https://github.com/user-attachments/assets/7e472bf8-ddc8-48fd-8902-32221a71fbe9" />
 
